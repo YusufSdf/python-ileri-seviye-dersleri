@@ -1,0 +1,21 @@
+{
+  "3": {
+    "title": "Macbook air",
+    "price": 80000,
+    "rating": "4.5",
+    "category": "Bilgisayar",
+    "colors": [
+      "black",
+      "Blue"
+    ]
+  },
+  "4": {
+    "title": "iphone 14",
+    "price": 40000,
+    "rating": "4.5",
+    "category": "telefon",
+    "colors": [
+      "purple"
+    ]
+  }
+}
